@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -11,7 +12,8 @@
     body {
       font-family: Arial, sans-serif;
       color: #fff;
-      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      background: url('https://raw.githubusercontent.com/<your-username>/<repo-name>/main/BreakingBadMikeWalt.jpg') no-repeat center center fixed;
+      background-size: cover;
       min-height: 100vh;
       display: flex;
       flex-direction: column;
@@ -65,6 +67,11 @@
     footer a:hover { text-decoration: underline; }
 
     html { scroll-behavior: smooth; }
+
+    @media (max-width: 768px) {
+      nav { flex-direction: column; text-align: center; }
+      section { padding: 20px; }
+    }
   </style>
 </head>
 <body>
@@ -142,3 +149,4 @@
 
 </body>
 </html>
+
