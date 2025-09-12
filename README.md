@@ -6,13 +6,16 @@
   <title>Mamilla Rishikesh Reddy - Portfolio</title>
   <style>
     * {
-      margin: 0; padding: 0; box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
     }
 
     body {
       font-family: Arial, sans-serif;
       color: #fff;
-      background: url('https://raw.githubusercontent.com/<your-username>/<repo-name>/main/BreakingBadMikeWalt.jpg') no-repeat center center fixed;
+      background: url('https://raw.githubusercontent.com/<your-username>/<repo-name>/main/BreakingBadMikeWalt.jpg')
+
       background-size: cover;
       min-height: 100vh;
       display: flex;
@@ -20,39 +23,57 @@
     }
 
     .container {
-      width: 100%; max-width: 1200px; margin: auto; padding: 20px;
+      width: 100%;
+      max-width: 1200px;
+      margin: auto;
+      padding: 20px;
     }
 
     nav {
-      display: flex; justify-content: space-between; align-items: center;
-      padding: 20px; background: rgba(0, 0, 0, 0.6); border-radius: 8px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px;
+      background: rgba(0, 0, 0, 0.6);
+      border-radius: 8px;
       margin-bottom: 40px;
     }
 
     nav h1 { font-size: 1.8rem; }
     nav a {
-      color: #fff; text-decoration: none; font-size: 16px;
-      padding: 8px 12px; border-radius: 5px; transition: 0.3s;
+      color: #fff;
+      text-decoration: none;
+      font-size: 16px;
+      padding: 8px 12px;
+      border-radius: 5px;
+      transition: 0.3s;
     }
     nav a:hover { background: rgba(255, 255, 255, 0.2); }
 
     section {
-      background: rgba(0, 0, 0, 0.5); margin-bottom: 40px;
-      padding: 40px; border-radius: 8px;
+      background: rgba(0, 0, 0, 0.5);
+      margin-bottom: 40px;
+      padding: 40px;
+      border-radius: 8px;
     }
     section h2 {
-      font-size: 2rem; margin-bottom: 20px; color: #ff9800;
+      font-size: 2rem;
+      margin-bottom: 20px;
+      color: #ff9800;
     }
     section p, section li { font-size: 1.1rem; line-height: 1.6; }
 
     /* Projects grid */
     .projects {
-      display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
       gap: 20px;
     }
     .project-card {
       background: rgba(255, 255, 255, 0.1);
-      padding: 20px; border-radius: 8px; transition: 0.3s;
+      padding: 20px;
+      border-radius: 8px;
+      transition: 0.3s;
     }
     .project-card:hover { background: rgba(255, 255, 255, 0.2); }
     .project-card h3 { margin-bottom: 10px; color: #4fc3f7; }
@@ -60,8 +81,11 @@
     .project-card a:hover { text-decoration: underline; }
 
     footer {
-      text-align: center; padding: 20px; background: rgba(0, 0, 0, 0.7);
-      border-radius: 8px; margin-top: auto;
+      text-align: center;
+      padding: 20px;
+      background: rgba(0, 0, 0, 0.7);
+      border-radius: 8px;
+      margin-top: auto;
     }
     footer a { color: #ff9800; text-decoration: none; }
     footer a:hover { text-decoration: underline; }
@@ -149,4 +173,3 @@
 
 </body>
 </html>
-
