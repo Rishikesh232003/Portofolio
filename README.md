@@ -157,8 +157,6 @@
       <p>Here are some of the projects I worked on:</p>
       <ul>
         <li><a href="#">Smart Price Alert - Automated E-commerce Price Monitoring</a></li>
-        <li><a href="#">15-Puzzle Solver using BFS, DFS, and Heuristics</a></li>
-        <li><a href="#">Portfolio Website</a></li>
       </ul>
     </section>
 
@@ -167,9 +165,9 @@
       <h2>Contact</h2>
       <p>You can reach me through:</p>
       <ul>
-        <li>Email: <a href="mailto:rishikesh@example.com">rishikesh@example.com</a></li>
-        <li>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a></li>
-        <li>GitHub: <a href="https://github.com/yourusername" target="_blank">GitHub</a></li>
+        <li>Email: <a href="rmami001@odu.edu">rmami001@odu.edu</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/rishikesh-reddy-mamilla-53b066164/" target="_blank">LinkedIn</a></li>
+        <li>GitHub: <a href="https://github.com/Rishikesh232003" target="_blank">GitHub</a></li>
       </ul>
     </section>
   </div>
