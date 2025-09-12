@@ -15,7 +15,7 @@
     body {
       font-family: Arial, sans-serif;
       color: #fff;
-      background: url('https://raw.githubusercontent.com/your-username/your-repo/main/BreakingBadMikeWalt.jpg') 
+      background: url('BreakingBadMikeWalt.jpg') 
                   no-repeat center center fixed;
       background-size: cover;
       height: 100vh;
