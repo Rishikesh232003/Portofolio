@@ -1,129 +1,155 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mamilla Rishikesh Reddy - Portfolio</title>
   <style>
-    /* General Reset */
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+/* Body and Background */
+body {
+  font-family: Arial, sans-serif;
+  color: #fff;
+  background: url('BreakingBadMikeWalt.jpg') 
+              no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
 
-    /* Body and Background */
-    body {
-      font-family: Arial, sans-serif;
-      color: #fff;
-      background: url('BreakingBadMikeWalt.jpg') 
-                  no-repeat center center fixed;
-      background-size: cover;
-      height: 100vh;
-      display: flex;
-      flex-direction: column;
-    }
+/* Container */
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
 
-    /* Container */
-    .container {
-      width: 100%;
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 20px;
-    }
+/* Navbar */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 8px;
+  margin-bottom: 40px;
+}
 
-    /* Navbar */
-    nav {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 20px;
-      background: rgba(0, 0, 0, 0.6);
-      border-radius: 8px;
-      margin-bottom: 40px;
-    }
+nav h1 {
+  font-size: 24px;
+}
 
-    nav h1 {
-      font-size: 24px;
-    }
+nav a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 10px;
+  border-radius: 5px;
+}
 
-    nav a {
-      color: #fff;
-      text-decoration: none;
-      font-size: 18px;
-      padding: 10px;
-      border-radius: 5px;
-    }
+nav a:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
 
-    nav a:hover {
-      background: rgba(255, 255, 255, 0.2);
-    }
+/* Sections */
+section {
+  background: rgba(0, 0, 0, 0.6);
+  margin-bottom: 40px;
+  padding: 40px;
+  border-radius: 8px;
+}
 
-    /* Sections */
-    section {
-      background: rgba(0, 0, 0, 0.6);
-      margin-bottom: 40px;
-      padding: 40px;
-      border-radius: 8px;
-    }
+section h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
 
-    section h2 {
-      font-size: 2.5rem;
-      margin-bottom: 20px;
-    }
+section p, section li {
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
 
-    section p, section li {
-      font-size: 1.2rem;
-      line-height: 1.6;
-    }
+ul {
+  list-style-type: none;
+  margin-top: 15px;
+}
 
-    ul {
-      list-style-type: none;
-      margin-top: 15px;
-    }
+ul li {
+  margin-bottom: 10px;
+}
 
-    ul li {
-      margin-bottom: 10px;
-    }
+ul li a {
+  color: #00aced;
+  text-decoration: none;
+}
 
-    ul li a {
-      color: #00aced;
-      text-decoration: none;
-    }
+ul li a:hover {
+  text-decoration: underline;
+}
 
-    ul li a:hover {
-      text-decoration: underline;
-    }
+/* Movies Grid */
+.movies-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
 
-    /* Footer */
-    footer {
-      text-align: center;
-      padding: 20px;
-      background: rgba(0, 0, 0, 0.7);
-      margin-top: auto;
-      border-radius: 8px;
-    }
+.movie-card {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  overflow: hidden;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
 
-    footer a {
-      color: #fff;
-      text-decoration: none;
-      font-size: 16px;
-    }
+.movie-card:hover {
+  transform: scale(1.05);
+}
 
-    footer a:hover {
-      text-decoration: underline;
-    }
+.movie-card img {
+  width: 100%;
+  height: 320px;
+  object-fit: cover;
+}
 
-    /* Responsive */
-    @media (max-width: 768px) {
-      nav {
-        flex-direction: column;
-        text-align: center;
-      }
+.movie-card h3 {
+  margin: 10px 0;
+  font-size: 1.3rem;
+  color: #fff;
+}
 
-      section {
-        padding: 20px;
-      }
-    }
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.7);
+  margin-top: auto;
+  border-radius: 8px;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  nav {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  section {
+    padding: 20px;
+  }
+}
   </style>
 </head>
 <body>
@@ -136,6 +162,7 @@
       <div>
         <a href="#about">About Me</a>
         <a href="#projects">Projects</a>
+        <a href="#favorites">Favorites</a>
         <a href="#contact">Contact</a>
       </div>
     </nav>
@@ -160,12 +187,43 @@
       </ul>
     </section>
 
+    <!-- Favorites -->
+    <section id="favorites">
+      <h2>Favorite Movies & TV Shows</h2>
+      <div class="movies-grid">
+        <div class="movie-card">
+          <a href="https://www.imdb.com/title/tt0903747/" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png" alt="Breaking Bad">
+            <h3>Breaking Bad</h3>
+          </a>
+        </div>
+        <div class="movie-card">
+          <a href="https://www.imdb.com/title/tt0111161/" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg" alt="The Shawshank Redemption">
+            <h3>The Shawshank Redemption</h3>
+          </a>
+        </div>
+        <div class="movie-card">
+          <a href="https://www.imdb.com/title/tt0137523/" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg" alt="Fight Club">
+            <h3>Fight Club</h3>
+          </a>
+        </div>
+        <div class="movie-card">
+          <a href="https://www.imdb.com/title/tt2187153/" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/en/e/e5/Seethamma_Vakitlo_Sirimalle_Chettu_poster.jpg" alt="SVSC">
+            <h3>Seethamma Vakitlo Sirimalle Chettu</h3>
+          </a>
+        </div>
+      </div>
+    </section>
+
     <!-- Contact -->
     <section id="contact">
       <h2>Contact</h2>
       <p>You can reach me through:</p>
       <ul>
-        <li>Email: <a href="rmami001@odu.edu">rmami001@odu.edu</a></li>
+        <li>Email: <a href="mailto:rmami001@odu.edu">rmami001@odu.edu</a></li>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/rishikesh-reddy-mamilla-53b066164/" target="_blank">LinkedIn</a></li>
         <li>GitHub: <a href="https://github.com/Rishikesh232003" target="_blank">GitHub</a></li>
       </ul>
@@ -179,3 +237,4 @@
   </footer>
 </body>
 </html>
+
