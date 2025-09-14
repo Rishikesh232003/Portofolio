@@ -172,7 +172,7 @@ footer a:hover {
     <section>
     <!-- Profile Picture -->
 <div id="profile-picture" style="text-align: center; margin-bottom: 40px;">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/your-image.jpg" 
+  <img src="rishi m.jpg" 
        alt="Mamilla Rishikesh Reddy" 
        width="80">
 </div>
