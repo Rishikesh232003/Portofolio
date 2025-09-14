@@ -173,7 +173,7 @@ footer a:hover {
     <!-- Profile Picture -->
      
 <div id="profile-picture"   
-style="padding: 20px; background-color: transparent;">
+style="padding: 150px; background-color: transparent; margin-bottom: 40px">
   
   <img src="rishi m.jpg" 
        >
