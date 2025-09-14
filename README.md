@@ -174,8 +174,7 @@ footer a:hover {
 <div id="profile-picture" style="text-align: center; margin-bottom: 40px;">
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/your-image.jpg" 
        alt="Mamilla Rishikesh Reddy" 
-       width="250" 
-       style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0px 4px 15px rgba(0,0,0,0.7);">
+       width="80">
 </div>
 </section>
 
