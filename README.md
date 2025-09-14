@@ -173,9 +173,9 @@ footer a:hover {
     <!-- Profile Picture -->
      
 <div id="profile-picture"  
-    max-width: 28%;
-    height: 400px;
-    border-radius: 10px;>
+  width="150" 
+       height="150" 
+       style="border-radius: 50%; border: 3px solid #fff; box-shadow: 0px 4px 10px rgba(0,0,0,0.6); object-fit: cover;">
   
   <img src="rishi m.jpg" 
        alt="Mamilla Rishikesh Reddy" 
