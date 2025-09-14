@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mamilla Rishikesh Reddy - Portfolio</title>
+  <title>Mamilla Rishikesh</title>
   <style>
 /* Body and Background */
 body {
@@ -158,14 +158,12 @@ footer a:hover {
     <nav>
       <div>
         <h1 style="
-    font-size: 48px; 
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
-    font-weight: bold; 
-    color: #ffffff; 
-    text-align: center; 
-    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
-    letter-spacing: 2px;
-    margin-top: 20px;
+    font-size: 28px;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-weight: 500;
+    color: #f5f5f5;
+    text-align: center;
+    margin: 15px;
 ">
   Mamilla Rishikesh Reddy
 </h1>
@@ -185,7 +183,7 @@ footer a:hover {
      
 
   
-  <img src="rishi m.jpg" style="height:500px; width:350px; margin-bottom:50px; margin-left:300px"
+  <img src="rishi m.jpg" style="height:500px; width:300px; margin-bottom:50px; margin-left:300px"
        >
 
 
@@ -248,7 +246,7 @@ We are still working on this project as this this project course ends in Decembe
       <div class="movies-grid">
         <div class="movie-card">
           <a href="https://www.imdb.com/title/tt0903747/" target="_blank">
-            <img src="https://www.imdb.com/title/tt0903747/mediaviewer/rm3116305665/?ref_=tt_ov_i">
+            <img src="https://upload.wikimedia.org/wikipedia/en/0/03/Walter_White_S5B.png">
             <h3>Breaking Bad</h3>
           </a>
         </div>
@@ -285,8 +283,7 @@ We are still working on this project as this this project course ends in Decembe
     </section>
   </div>
 
-.resume-btn:hover {
-  background: #0084b4;
+
 }
 <section id="resume">
   <h2>Resume</h2>
