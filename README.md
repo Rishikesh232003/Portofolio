@@ -174,7 +174,7 @@ footer a:hover {
      
 
   
-  <img src="rishi m.jpg" style="height:600px; width:400px; margin-bottom:50px; margin-left:250px"
+  <img src="rishi m.jpg" style="height:500px; width:350px; margin-bottom:50px; margin-left:300px"
        >
 
 
@@ -194,9 +194,27 @@ footer a:hover {
     <section id="projects">
       <h2>Projects</h2>
       <p>Here are some of the projects I worked on:</p>
-      <ul>
-        <li><a href="#">Smart Price Alert - Automated E-commerce Price Monitoring</a></li>
-      </ul>
+      <p>Netflix Recommendation System – Innovative Students Hackathon
+•
+Team Lead | Hyderabad, India | Dec 2023 – Feb 2024
+•
+Led a 3-member team to develop a content-based recommendation system for Netflix.
+•
+Used Python, web scraping for handling large-scale datasets.
+•
+Reached final round among 100+ teams by proposing an efficient data organization model.
+Smart Price Alert System
+•
+Designed an automated price monitoring tool for e-commerce websites using Python and APIs.
+•
+Implemented data collection, alert triggering, and visualization of price trends.
+Smart Screen Voice — Accessible Screen Summarizer & TTS for Blind Users
+•
+Designed and implemented an end-to-end pipeline that captures screen content, performs OCR, and preprocesses text for downstream NLP tasks.
+•
+Integrated real-time TTS (text-to-speech) to vocalize summaries and navigational cues with low latency for seamless interaction.
+•
+We are still working on this project as this this project course ends in December 2025. We use transformers for the analysing and processing.</p>
     </section>
 <section id="hobbies">
   <h2>Hobbies</h2>
