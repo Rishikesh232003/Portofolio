@@ -204,7 +204,7 @@ footer a:hover {
       <div class="movies-grid">
         <div class="movie-card">
           <a href="https://www.imdb.com/title/tt0903747/" target="_blank">
-            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Ftopic%2FBreaking-Bad&psig=AOvVaw1MZxLwd87A4BjGZrz8jHp4&ust=1757902662115000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPinwvqX148DFQAAAAAdAAAAABAK" alt="Breaking Bad">
+            <img src="https://www.imdb.com/title/tt0903747/mediaviewer/rm3116305665/?ref_=tt_ov_i">
             <h3>Breaking Bad</h3>
           </a>
         </div>
@@ -240,11 +240,6 @@ footer a:hover {
       </ul>
     </section>
   </div>
-<section id="resume">
-  <h2>Resume</h2>
-  <p>If you’d like to know more about my experience, you can download my resume below:</p>
-  <a href="resume.pdf" download class="resume-btn">📄 Download Resume</a>
-</section>
 .resume-btn {
   display: inline-block;
   background: #00aced;
@@ -259,6 +254,11 @@ footer a:hover {
 .resume-btn:hover {
   background: #0084b4;
 }
+<section id="resume">
+  <h2>Resume</h2>
+  <p>If you’d like to know more about my experience, you can download my resume below:</p>
+  <a href="resume.pdf" download class="resume-btn">📄 Download Resume</a>
+</section>
 
 
 
