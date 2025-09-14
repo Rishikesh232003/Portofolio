@@ -1,6 +1,16 @@
 
 <html lang="en">
 <head>
+  <h1 style="
+    font-size: 42px;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-weight: 600;
+    color: #e0e0e0;
+    text-align: center;
+    margin: 25px 0 10px 0;
+">
+ <a href="https://rishikesh232003.github.io/Portofolio/"> Portfolio</a>
+</h1>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mamilla Rishikesh</title>
