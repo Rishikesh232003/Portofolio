@@ -171,7 +171,7 @@ footer a:hover {
     </nav>
   
     <!-- Profile Picture -->
-     <div class="movie-card">
+     
 <div id="profile-picture"  
     max-width: 28%;
     height: 400px;
