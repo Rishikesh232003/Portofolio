@@ -170,14 +170,13 @@ footer a:hover {
       </div>
     </nav>
   
-    <!-- Profile Picture -->
-     
-<div id="profile-picture"   
-style="padding: 150px; background-color: transparent; margin-bottom: 40px">
   
-  <img src="rishi m.jpg" 
+     
+
+  
+  <img src="rishi m.jpg" style="padding: 150px; background-color: transparent; margin-bottom: 40px"
        >
-</div>
+
 
 
     <!-- About -->
