@@ -157,7 +157,18 @@ footer a:hover {
     <!-- Navbar -->
     <nav>
       <div>
-        <h1>Mamilla Rishikesh Reddy</h1>
+        <h1 style="
+    font-size: 48px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-weight: bold; 
+    color: #ffffff; 
+    text-align: center; 
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+    letter-spacing: 2px;
+    margin-top: 20px;
+">
+  Mamilla Rishikesh Reddy
+</h1>
       </div> 
    
 
@@ -195,24 +206,25 @@ footer a:hover {
       <h2>Projects</h2>
       <p>Here are some of the projects I worked on:</p>
       <p>Netflix Recommendation System – Innovative Students Hackathon
+      <br>
 •
-Team Lead | Hyderabad, India | Dec 2023 – Feb 2024
+Team Lead | Hyderabad, India | Dec 2023 – Feb 2024 <br>
 •
-Led a 3-member team to develop a content-based recommendation system for Netflix.
+Led a 3-member team to develop a content-based recommendation system for Netflix.<br>
 •
-Used Python, web scraping for handling large-scale datasets.
+Used Python, web scraping for handling large-scale datasets.<br>
 •
-Reached final round among 100+ teams by proposing an efficient data organization model.
-Smart Price Alert System
+Reached final round among 100+ teams by proposing an efficient data organization model.<br>
+Smart Price Alert System<br>
 •
-Designed an automated price monitoring tool for e-commerce websites using Python and APIs.
+Designed an automated price monitoring tool for e-commerce websites using Python and APIs.<br>
 •
-Implemented data collection, alert triggering, and visualization of price trends.
-Smart Screen Voice — Accessible Screen Summarizer & TTS for Blind Users
+Implemented data collection, alert triggering, and visualization of price trends.<br>
+Smart Screen Voice — Accessible Screen Summarizer & TTS for Blind Users<br>
 •
-Designed and implemented an end-to-end pipeline that captures screen content, performs OCR, and preprocesses text for downstream NLP tasks.
+Designed and implemented an end-to-end pipeline that captures screen content, performs OCR, and preprocesses text for downstream NLP tasks.<br>
 •
-Integrated real-time TTS (text-to-speech) to vocalize summaries and navigational cues with low latency for seamless interaction.
+Integrated real-time TTS (text-to-speech) to vocalize summaries and navigational cues with low latency for seamless interaction.<br>
 •
 We are still working on this project as this this project course ends in December 2025. We use transformers for the analysing and processing.</p>
     </section>
