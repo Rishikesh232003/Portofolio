@@ -178,8 +178,7 @@ footer a:hover {
        style="border-radius: 50%; object-fit: cover;">
   
   <img src="rishi m.jpg" 
-       alt="Mamilla width: 100px;
-    height: 100px; 
+       alt="Mamilla" width="50"; height="80"
        >
 </div>
 
