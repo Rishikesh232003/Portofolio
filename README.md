@@ -174,7 +174,7 @@ footer a:hover {
      
 
   
-  <img src="rishi m.jpg" style="height:90px; width:50px; margin-bottom:50px"
+  <img src="rishi m.jpg" style="height:400px; width:250px; margin-bottom:50px; margin-left:150px"
        >
 
 
