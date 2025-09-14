@@ -172,7 +172,7 @@ footer a:hover {
   
     <!-- Profile Picture -->
      <div class="movie-card">
-<div id="profile-picture" style="text-align: center; margin-bottom: 0px;">
+<div id="profile-picture" style="text-align: center; margin-bottom: 0px; padding: 20px;">
   <img src="rishi m.jpg" 
        alt="Mamilla Rishikesh Reddy" 
        width="10">
