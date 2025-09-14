@@ -160,13 +160,7 @@ footer a:hover {
         <h1>Mamilla Rishikesh Reddy</h1>
       </div> 
    
-<!-- Profile Picture -->
-<div id="profile-picture" style="text-align: center; margin-bottom: 40px;">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/your-image.jpg" 
-       alt="Mamilla Rishikesh Reddy" 
-       width="250" 
-       style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0px 4px 15px rgba(0,0,0,0.7);">
-</div>
+
 
       <div>
         <a href="#about">About Me</a>
@@ -175,6 +169,15 @@ footer a:hover {
         <a href="#contact">Contact</a>
       </div>
     </nav>
+    <section>
+    <!-- Profile Picture -->
+<div id="profile-picture" style="text-align: center; margin-bottom: 40px;">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/your-image.jpg" 
+       alt="Mamilla Rishikesh Reddy" 
+       width="250" 
+       style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0px 4px 15px rgba(0,0,0,0.7);">
+</div>
+</section>
 
     <!-- About -->
     <section id="about">
