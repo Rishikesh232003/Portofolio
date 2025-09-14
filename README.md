@@ -215,11 +215,13 @@ Led a 3-member team to develop a content-based recommendation system for Netflix
 Used Python, web scraping for handling large-scale datasets.<br>
 •
 Reached final round among 100+ teams by proposing an efficient data organization model.<br>
+<br>
 Smart Price Alert System<br>
 •
 Designed an automated price monitoring tool for e-commerce websites using Python and APIs.<br>
 •
 Implemented data collection, alert triggering, and visualization of price trends.<br>
+<br>
 Smart Screen Voice — Accessible Screen Summarizer & TTS for Blind Users<br>
 •
 Designed and implemented an end-to-end pipeline that captures screen content, performs OCR, and preprocesses text for downstream NLP tasks.<br>
@@ -282,16 +284,6 @@ We are still working on this project as this this project course ends in Decembe
       </ul>
     </section>
   </div>
-.resume-btn {
-  display: inline-block;
-  background: #00aced;
-  color: #fff;
-  padding: 12px 24px;
-  border-radius: 8px;
-  text-decoration: none;
-  font-weight: bold;
-  transition: background 0.3s;
-}
 
 .resume-btn:hover {
   background: #0084b4;
@@ -299,7 +291,7 @@ We are still working on this project as this this project course ends in Decembe
 <section id="resume">
   <h2>Resume</h2>
   <p>If you’d like to know more about my experience, you can download my resume below:</p>
-  <a href="resume.pdf" download class="resume-btn">📄 Download Resume</a>
+  <a href="https://github.com/Rishikesh232003/Portofolio/blob/main/rishikesh%20resume%20v.pdf" download class="resume-btn">📄 Download Resume</a>
 </section>
 
 
