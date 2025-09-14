@@ -158,16 +158,16 @@ footer a:hover {
     <nav>
       <div>
         <h1>Mamilla Rishikesh Reddy</h1>
-      </div>
+      </div> 
+    = <div>
       <!-- My Picture -->
 <section id="profile-picture">
-  <h2>My Picture</h2>
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/your-image.jpg" 
+  <img src="https://github.com/Rishikesh232003/Portofolio/blob/main/rishi%20m.jpg" 
        alt="Mamilla Rishikesh Reddy" 
        width="250" 
        style="border-radius: 15px; border: 3px solid #fff; box-shadow: 0px 4px 12px rgba(0,0,0,0.6);">
-  <p>This is me, Mamilla Rishikesh Reddy.</p>
 </section>
+</div>
 
       <div>
         <a href="#about">About Me</a>
