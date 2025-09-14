@@ -178,7 +178,8 @@ footer a:hover {
        style="border-radius: 50%; object-fit: cover;">
   
   <img src="rishi m.jpg" 
-       alt="Mamilla Rishikesh Reddy" 
+       alt="Mamilla width: 100px;
+    height: 100px; 
        >
 </div>
 
