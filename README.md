@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -186,6 +186,17 @@ footer a:hover {
         <li><a href="#">Smart Price Alert - Automated E-commerce Price Monitoring</a></li>
       </ul>
     </section>
+<section id="hobbies">
+  <h2>Hobbies</h2>
+  <p>
+    Outside of academics, I enjoy a balance of sports and entertainment.  
+    I’m passionate about <b>watching cricket</b>, following exciting matches and supporting my favorite teams.  
+    I also love <b>watching movies</b>, as they inspire creativity and storytelling.  
+    Staying active is important to me — I regularly play <b>badminton</b>, which sharpens my reflexes and teamwork,  
+    and I dedicate time to the <b>gym</b> to build strength and maintain a healthy lifestyle.  
+  </p>
+</section>
+
 
     <!-- Favorites -->
     <section id="favorites">
@@ -193,7 +204,7 @@ footer a:hover {
       <div class="movies-grid">
         <div class="movie-card">
           <a href="https://www.imdb.com/title/tt0903747/" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png" alt="Breaking Bad">
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Ftopic%2FBreaking-Bad&psig=AOvVaw1MZxLwd87A4BjGZrz8jHp4&ust=1757902662115000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPinwvqX148DFQAAAAAdAAAAABAK" alt="Breaking Bad">
             <h3>Breaking Bad</h3>
           </a>
         </div>
@@ -210,8 +221,8 @@ footer a:hover {
           </a>
         </div>
         <div class="movie-card">
-          <a href="https://www.imdb.com/title/tt2187153/" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/en/e/e5/Seethamma_Vakitlo_Sirimalle_Chettu_poster.jpg" alt="SVSC">
+          <a href="https://www.imdb.com/title/tt2198161/" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Seethamma_Vakitlo_Sirimalle_Chettu.jpg" alt="SVSC">
             <h3>Seethamma Vakitlo Sirimalle Chettu</h3>
           </a>
         </div>
@@ -229,6 +240,27 @@ footer a:hover {
       </ul>
     </section>
   </div>
+<section id="resume">
+  <h2>Resume</h2>
+  <p>If you’d like to know more about my experience, you can download my resume below:</p>
+  <a href="resume.pdf" download class="resume-btn">📄 Download Resume</a>
+</section>
+.resume-btn {
+  display: inline-block;
+  background: #00aced;
+  color: #fff;
+  padding: 12px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.resume-btn:hover {
+  background: #0084b4;
+}
+
+
 
   <!-- Footer -->
   <footer>
