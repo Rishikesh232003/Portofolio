@@ -169,14 +169,15 @@ footer a:hover {
         <a href="#contact">Contact</a>
       </div>
     </nav>
-    <section>
+  
     <!-- Profile Picture -->
+     <div class="movie-card">
 <div id="profile-picture" style="text-align: center; margin-bottom: 40px;">
   <img src="rishi m.jpg" 
        alt="Mamilla Rishikesh Reddy" 
        width="80">
 </div>
-</section>
+</div>
 
     <!-- About -->
     <section id="about">
