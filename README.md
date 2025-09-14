@@ -172,13 +172,10 @@ footer a:hover {
   
     <!-- Profile Picture -->
      
-<div id="profile-picture"  
-  width="50" 
-       height="80" 
-       style="border-radius: 50%; object-fit: cover;">
+<div id="profile-picture"   
+style="padding: 20px; background-color: transparent;">
   
   <img src="rishi m.jpg" 
-       alt="Mamilla" width="50"; height="80"
        >
 </div>
 
